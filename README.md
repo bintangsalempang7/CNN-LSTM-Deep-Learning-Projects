@@ -25,8 +25,8 @@ Repository ini berisi implementasi arsitektur *Deep Learning* untuk menyelesaika
 ## Sumber Dataset
 Dataset yang digunakan dalam proyek ini bersumber dari repositori terbuka **Mendeley Data** (tidak disertakan langsung di dalam repository GitHub karena ukuran file melebihi batas unggah maksimal 100 MB):
 
-* **Dataset Soal 1 (CNN — Rice Leaf Disease):** https://data.mendeley.com/datasets/t46kkgh2yw/1 *(Ganti tanda `#` dengan link Mendeley Data Anda)*
-* **Dataset Soal 2 (LSTM — Daily Rainfall Observations):** https://data.mendeley.com/datasets/t46kkgh2yw/1 *(Ganti tanda `#` dengan link Mendeley Data Anda)*
+* **Dataset Soal 1 (CNN — Rice Leaf Disease):** [Rice Leaf Disease](https://data.mendeley.com/datasets/t46kkgh2yw/1)
+* **Dataset Soal 2 (LSTM — Daily Rainfall Observations):** [Daily Rainfall Observations](https://data.mendeley.com/datasets/d7j3s64vvr/3) 
 
 ---
 
