@@ -22,6 +22,12 @@ Repository ini berisi implementasi arsitektur *Deep Learning* untuk menyelesaika
 * **Tujuan:** Memodelkan data deret waktu (*time-series*) meteorologi untuk memprediksi curah hujan harian menggunakan jaringan saraf berulang *Long Short-Term Memory* (LSTM).
 * **Tahapan Utama:** Pembersihan data (*handling missing values*), normalisasi fitur, pembentukan *sequence/windowing* data deret waktu, pelatihan arsitektur LSTM, dan evaluasi prediksi.
 
+## Sumber Dataset
+Dataset yang digunakan dalam proyek ini bersumber dari repositori terbuka **Mendeley Data** (tidak disertakan langsung di dalam repository GitHub karena ukuran file melebihi batas unggah maksimal 100 MB):
+
+* **Dataset Soal 1 (CNN — Rice Leaf Disease):** https://data.mendeley.com/datasets/t46kkgh2yw/1 *(Ganti tanda `#` dengan link Mendeley Data Anda)*
+* **Dataset Soal 2 (LSTM — Daily Rainfall Observations):** https://data.mendeley.com/datasets/t46kkgh2yw/1 *(Ganti tanda `#` dengan link Mendeley Data Anda)*
+
 ---
 
 ## Struktur Repository
